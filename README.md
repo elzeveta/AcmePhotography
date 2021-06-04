@@ -1,3 +1,3 @@
 # AcmePhotography
 
-![ScreenShot](https://{codepen.io/Elzeveta/full/poNrXae})
+![ScreenShot](https://raw.github.com/{elzeveta}/{AcmePhotography}/{main}/{./images/Screenshot.png})
