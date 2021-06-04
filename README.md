@@ -1,3 +1,3 @@
 # AcmePhotography
 
-[![Screenshot-2.png](https://i.postimg.cc/rmp9tx1f/Screenshot-2.png)](https://postimg.cc/94v964N9)
+[![Screenshot-3.png](https://i.postimg.cc/Y2hJ5m5N/Screenshot-3.png)](https://postimg.cc/mhWXMh2h)
